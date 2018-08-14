@@ -1,0 +1,19 @@
+{
+  "name": "appvalores",
+  "version": "1.0.0",
+  "description": "Alerta de PUTs en bolsa de valores",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(git://github.com/matiascortinez/appbolsadevalores)"
+  },
+  "keywords": [
+    "option-chain"
+  ],
+  "author": "onBoardingKiwing",
+  "license": "ISC"
+}
