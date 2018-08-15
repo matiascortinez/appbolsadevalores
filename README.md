@@ -4,7 +4,7 @@ Prototipo MVP. Solo ingreso de usuario y funcion "put" (carga, visualizacion, al
 -Log In
 -Carga de put (Simbolo, Strike, Bid, Fecha VTO.)
 -Historial
--ALmacenamiento
+-Almacenamiento
 -Notificacion con grafico (mail, SMS)
 
 
